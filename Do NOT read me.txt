@@ -1,3 +1,4 @@
+Deutsch:
 SSID=Netzwerkname (Der der angezeigt wird, wenn du dich mit deinem Internet verbinden möchtest.
 Router=Das Gerät von dem du dein Internet bekommst (indem Fall die IP Adresse von dem Gerät).
 Art=Sagt mit welcher Art du verbunden bist. Hotspot, ETHERNET, Wlan.
@@ -9,3 +10,17 @@ Empfangen=Die ganze Dateienmenge die dein Computer vom Netzwerk heruntergeladen 
 Gesendet=Die Gesamtmenge der Dateien, die dein Gerät ins Netzwerk hochgeladen hat.
 
 Bitte stell sicher, dass dein Computer auf Deutsch gestellt ist, weil sonst funktioniert das Programm nicht.
+
+
+English: 
+SSID=Network Name (The one that will be displayed when you want to connect to your internet.
+Router=The device from which you get your internet (in this case the IP address of the device).
+Type=Says which type you are connected to. Hotspot, ETHERNET, WiFi.
+Status=Says whether you are connected or not.
+Signal strength=quality between your device and the router. (Anything below 50% is bad)
+Your IP=Your IP
+Ping=Measures the response time of your internet, the higher the worse.
+Received=The total amount of files your computer has downloaded from the network.
+Sent=The total amount of files your device has uploaded to the network.
+
+Please make sure that your computer is set to englsh, otherwise the program will not work.
