@@ -1,0 +1,11 @@
+SSID=Netzwerkname (Der der angezeigt wird, wenn du dich mit deinem Internet verbinden möchtest.
+Router=Das Gerät von dem du dein Internet bekommst (indem Fall die IP Adresse von dem Gerät).
+Art=Sagt mit welcher Art du verbunden bist. Hotspot, ETHERNET, Wlan.
+Status=Sagt ob du verbunden bist oder nicht.
+Signalstaerke=Qualität zwischen deinem Gerät und dem Router. (Alles unter 50% ist schlecht)
+Deine IP=Deine IP
+Ping=Misst die Reaktionszeit deines Internets, um so höher um so schlechter.
+Empfangen=Die ganze Dateienmenge die dein Computer vom Netzwerk heruntergeladen hat.
+Gesendet=Die Gesamtmenge der Dateien, die dein Gerät ins Netzwerk hochgeladen hat.
+
+Bitte stell sicher, dass dein Computer auf Deutsch gestellt ist, weil sonst funktioniert das Programm nicht.
